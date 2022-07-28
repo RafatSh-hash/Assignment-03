@@ -21,3 +21,17 @@ body {
 .carousel-item {
     max-height: 580px;
 }
+
+.coockie {
+    background-color: transparent;
+    height: 60px;
+    width: 60px;
+    position: fixed-bottom;
+
+
+}
+
+.coockie>img {
+    height: 100%;
+    width: 100%;
+}
